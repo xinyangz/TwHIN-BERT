@@ -1,2 +1,2 @@
 # TwHIN-BERT
-Code and data release for the paper "TwHIN-BERT: A Socially-Enriched Pre-trained Language Model for Multilingual Tweet Representations"
+The TwHIN-BERT model and the benchmark datasets will be posted here in the near future.
