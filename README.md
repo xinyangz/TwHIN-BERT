@@ -36,7 +36,7 @@ outputs = model(**inputs)
 
 
 
-## 2. Set up environment and data
+## 2. Benchmark Datasets
 We will release our multilingual hashtag prediction and engagement prediction datasets soon.
 
 
