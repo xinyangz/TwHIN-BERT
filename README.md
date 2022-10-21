@@ -28,8 +28,8 @@ We initially release two pretrained TwHIN-BERT models (base and large) that are 
 To use these models in 🤗 Transformers:
 ```python
 from transformers import AutoTokenizer, AutoModel
-tokenizer = AutoTokenizer.from_pretrained('Twitter/twhin-bert-large')
-model = AutoModel.from_pretrained('Twitter/twhin-bert-large')
+tokenizer = AutoTokenizer.from_pretrained('Twitter/twhin-bert-base')
+model = AutoModel.from_pretrained('Twitter/twhin-bert-base')
 inputs = tokenizer("I'm using TwHIN-BERT! #TwHIN-BERT #NLP", return_tensors="pt")
 outputs = model(**inputs)
 ```
