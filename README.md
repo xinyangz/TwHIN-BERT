@@ -1,5 +1,5 @@
 # TwHIN-BERT: A Socially-Enriched Pre-trained Language Model for Multilingual Tweet Representations
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg?style=flat-square)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg?style=flat-square)](https://github.com/xinyangz/TwHIN-BERT/pulls)
 [![arXiv](https://img.shields.io/badge/arXiv-2203.15827-b31b1b.svg)](https://arxiv.org/abs/2209.07562)
 [![Huggingface-base](https://img.shields.io/badge/HuggingFace-twhin--bert--base-yellow)](https://huggingface.co/Twitter/twhin-bert-base)
 [![Huggingface-large](https://img.shields.io/badge/HuggingFace-twhin--bert--large-yellow)](https://huggingface.co/Twitter/twhin-bert-large)
@@ -37,7 +37,15 @@ outputs = model(**inputs)
 
 
 ## 2. Benchmark Datasets
-We will release our multilingual hashtag prediction and engagement prediction datasets soon.
+The datasets are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+### 2.1 Multilingual Hashtag Prediction
+Please check the official dataset repo on HuggingFace ([link](https://huggingface.co/datasets/Twitter/HashtagPrediction)) for dataset description and download.
+
+A hydrated version of the dataset can be downloaded [here](https://www.dropbox.com/s/wnfgz2ry369r6ps/hashtag-classification.zip?dl=0). You must follow Twitter's term of service if using the hydrated dataset.
+
+### 2.2 Engagement Prediction
+We will release our engagement prediction datasets soon.
 
 
 ## Citation
