@@ -45,11 +45,11 @@ Please check the official dataset repo on HuggingFace ([link](https://huggingfac
 A hydrated version of the dataset can be downloaded [here](https://www.dropbox.com/s/wnfgz2ry369r6ps/hashtag-classification.zip?dl=0). You must follow Twitter's term of service if using the hydrated dataset.
 
 ### 2.2 Engagement Prediction
-We will release our engagement prediction datasets soon.
+A hydrated version of the dataset can be downloaded [here](https://www.dropbox.com/s/7fnbaenl11j0yuf/engagement-dataset.zip?dl=0). You must follow Twitter's term of service if using the hydrated dataset.
 
 
 ## Citation
-If you use TwHIN-BERT or out datasets in your work, please cite, please cite the following:
+If you use TwHIN-BERT or out datasets in your work, please cite the following:
 ```bib
 @article{zhang2022twhin,
   title={TwHIN-BERT: A Socially-Enriched Pre-trained Language Model for Multilingual Tweet Representations},
