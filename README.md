@@ -8,6 +8,7 @@
 This repo contains models, code and pointers to datasets from our paper: [TwHIN-BERT: A Socially-Enriched Pre-trained Language Model for Multilingual Tweet Representations](https://arxiv.org/abs/2209.07562).
 [[PDF]](https://arxiv.org/pdf/2209.07562.pdf)
 [[HuggingFace Models]](https://huggingface.co/Twitter)
+[[Video]](https://www.youtube.com/watch?v=bjpq1Y4obi80)
 
 ### Overview
 TwHIN-BERT is a new multi-lingual Tweet language model that is trained on 7 billion Tweets from over 100 distinct languages. TwHIN-BERT differs from prior pre-trained language models as it is trained with not only text-based self-supervision (e.g., MLM), but also with a social objective based on the rich social engagements within a Twitter Heterogeneous Information Network (TwHIN).
